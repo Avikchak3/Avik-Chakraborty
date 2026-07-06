@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
+<h1 align="center">Hi 👋, I'm Avik Chakraborty</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
