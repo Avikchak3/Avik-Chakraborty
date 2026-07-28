@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **Advanced LLM Orchestration, RAG systems, and Cloud DevOps**
 
-- 💬 Ask me about **React.js, Node.js, Python, MongoDB, LLMs, and Data Structures**  
+- 💬 Ask me about **React.js, Node.js, Python, MongoDB, LLMs, and RAG, Langchain, LangGraph, NLP, TensorFlow**  
 
 - 📫 How to reach me **aveek2003@gmail.com**
 
